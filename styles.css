@@ -48,4 +48,10 @@
   background: #125688;
   color: white;
 }
-
+.link-boxes{
+	display:flex;
+	justify-content:space-around
+}
+h1{
+	font-size:15px;
+}
